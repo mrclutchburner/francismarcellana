@@ -4,11 +4,11 @@
 <p>- 🏢 Central Philippine University</p>
 <p>- 👨🏻‍💻 A Information Technology graduate who is currently working at Iloilo II Electric Cooperative, Inc. as I.T. Specialist<p/>
 <p>- 🌱 I’m currently learning ReactJS,NextJS,Laravel</p>
-<h3>Programming Languages</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis&theme=algolia&show_icons=true)
 
-p>
+<h3>Programming Languages</h3>
+<p>
   <a href="https://www.php.net/images/logos/new-php-logo.svg" target="_blank"><img src="https://www.php.net/images/logos/new-php-logo.svg" height="50"></a>
    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" height="50"></a>
 </p>
