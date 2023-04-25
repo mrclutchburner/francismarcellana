@@ -6,7 +6,7 @@
 <p>- 🌱 I’m currently learning ReactJS,NextJS,Laravel</p>
 <h3>Programming Languages</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis&theme=algolia&show_icons=true)
 
 p>
   <a href="https://www.php.net/images/logos/new-php-logo.svg" target="_blank"><img src="https://www.php.net/images/logos/new-php-logo.svg" height="50"></a>
