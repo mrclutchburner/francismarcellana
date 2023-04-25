@@ -5,5 +5,5 @@
 <p>- 🌱 I’m currently learning React,Vue and Python,Node,Laravel</p>
 <h3>Programming Languages</h3>
 <p>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis&theme=dark&show_icons=true)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis&theme=dark&show_icons=true)
 </p>
