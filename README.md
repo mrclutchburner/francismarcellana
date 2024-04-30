@@ -19,7 +19,8 @@
 
 <h3>Programming Languages</h3>
 <p>
-  <a href="https://www.php.net/images/logos/new-php-logo.svg" target="_blank"><img src="https://www.php.net/images/logos/new-php-logo.svg" height="50"></a>
+  
+  <a href="[https://www.php.net/images/logos/new-php-logo.svg](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)" target="_blank"><img src="[https://www.php.net/images/logos/new-php-logo.svg](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)" height="50"></a>
    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" height="50"></a>
 </p>
 <h3>UI/UX Frameworks</h3>
